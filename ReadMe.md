@@ -1,6 +1,6 @@
 # About
 
-This project demonstrates how you can use [Microsft Playwright](https://playwright.dev/) to take screenshots of your online platform or product.
+This project demonstrates how you can use [Microsoft Playwright](https://playwright.dev/) to take screenshots of your online platform or product.
 
 See `screenshots` folder for examples.
 
