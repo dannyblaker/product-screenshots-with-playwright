@@ -1,3 +1,5 @@
+![playwright logo](playwright-logo.png)
+
 # About
 
 This project demonstrates how you can use [Microsoft Playwright](https://playwright.dev/) to take screenshots of your online platform or product.
