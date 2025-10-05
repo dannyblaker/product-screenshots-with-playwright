@@ -66,11 +66,11 @@ In VScode...
 2. under playwright, click `record new`
 3. Perform actions required to navigate to the page you wish to screenshot
 4. Click on the element you wish to screenshot
-5. Copy the resulting code to `take_screenshots.spec.ts`, then clean it to match the the format below:
+5. Copy the resulting code to `take_screenshots.spec.ts`, then modify the resulting playwright test to match the format below:
 
 ```ts
-test('home page book image', async ({ page }) => {
-  let saveName = 'home_page_book_image'
+test('feature_name', async ({ page }) => {
+  let saveName = 'feature_name'
 
   // navitage to element
   await page.goto('https://www.wikihow.com/Main-Page');
